@@ -5,6 +5,8 @@ Nesse curso é ensinado como contribuir com projeto de código aberto
 
 Link para o curso [Python Pro](https://plataforma.dev.pro.br/)
 
+Suportada versão 3 de Python
+
 Tópicos a serem abordados
 1. Git
 2. VirtualEnv
