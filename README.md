@@ -7,6 +7,25 @@ Link para o curso [Python Pro](https://plataforma.dev.pro.br/)
 
 Suportada versão 3 de Python
 
+Para instalar:
+1. Linux e Mac
+```console
+python3 -m venv venv
+source .venv/bin/activate
+pip install -r requirements_dev.txt
+```
+2. Windows
+```console
+py -3 -m virtualenv venv
+venv\Scripts\activate
+pip install -r requirements_dev.txt
+```
+
+Para conferir qualidade do código:
+```console
+flake8
+```
+
 Tópicos a serem abordados
 1. Git
 2. VirtualEnv
