@@ -7,6 +7,9 @@ Link para o curso [Python Pro](https://plataforma.dev.pro.br/)
 
 Suportada versão 3 de Python
 
+[![Updates](https://pyup.io/repos/github/brjatoba92/libpythonprojat2022/shield.svg)](https://pyup.io/repos/github/brjatoba92/libpythonprojat2022/)
+[![Python 3](https://pyup.io/repos/github/brjatoba92/libpythonprojat2022/python-3-shield.svg)](https://pyup.io/repos/github/brjatoba92/libpythonprojat2022/)
+
 Para instalar:
 1. Linux e Mac
 ```console
